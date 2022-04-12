@@ -1,0 +1,8 @@
+# IDE settings
+*.jar
+*.class
+*.iml
+.idea/
+.DS_Store
+target/
+
