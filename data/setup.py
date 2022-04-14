@@ -1,4 +1,4 @@
-import numpy as np
+from imports import *
 
 def setup():
   N = type(None)
