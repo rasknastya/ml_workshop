@@ -1,4 +1,4 @@
-from imports import *
+from ml_workshop.data.imports import *
 def generate_beam(model, tokenizer, beam_size: int = 5, prompt=None, embed=None,
                   entry_length=67, temperature=1., stop_token: str = '.'):
 

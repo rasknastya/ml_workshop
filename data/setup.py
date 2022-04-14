@@ -1,4 +1,4 @@
-from imports import *
+from ml_workshop.data.imports import *
 
 def setup():
   N = type(None)
